@@ -2,6 +2,10 @@
 
 ## Amphrysos advena nubere
 
+
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1wrTqHD6nlxlrMX_QoWvyELuVpQ6tyRCz&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://www.draw.io/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1wrTqHD6nlxlrMX_QoWvyELuVpQ6tyRCz%26export%3Ddownload"></script>
+
 Lorem markdownum mersis arcem deum caeli
 [placere](http://primum-canum.com/ipso.html) vetustas exercita tamen. Pulsumque
 quod erat [vires egerit chelydri](http://cervis.org/me) miseranda exuit rorantia
